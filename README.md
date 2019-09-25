@@ -1,4 +1,4 @@
 android-slide-out-menu
 ======================
 
-Android slide out menu similar to Facebook Android App
+Android slide out menu from left and and right
